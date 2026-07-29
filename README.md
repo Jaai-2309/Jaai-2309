@@ -145,11 +145,19 @@ CGPA: **9.3 / 10**
 
 ---
 
-## 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/jaai-panhale">
+    <img src="https://img.shields.io/badge/LinkedIn-Jai%20Panhale-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-- 📧 Email: **sweetypanhale@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/jaai-panhale**
-- 💻 GitHub: **https://github.com/Jaai-2309**
+  <a href="mailto:sweetypanhale@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://github.com/Jaai-2309">
+    <img src="https://img.shields.io/badge/GitHub-Jaai--2309-black?style=for-the-badge&logo=github" />
+  </a>
+</p>*
 
 ---
 
