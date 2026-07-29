@@ -1,9 +1,9 @@
 # Hi 👋, I'm Jai Sampat Panhale
-
-🎓 Final Year B.E. Information Technology Student at NBN Sinhgad Technical Institute of Engineering, Pune.  
-💻 Passionate Flutter & Java Developer with a strong interest in Mobile App Development, Cloud Computing, and Software Engineering.  
-🌱 Currently learning Advanced Java, AWS, and Data Structures & Algorithms.  
-📍 Pune, Maharashtra, India.
+### Bachelor of Engineering (B.E.) in Information Technology
+**NBN Sinhgad Technical Institute of Engineering Campus, Pune**  
+*Savitribai Phule Pune University*  
+**2023 – 2026**  
+**CGPA:** 9.3/10
 
 ---
 
