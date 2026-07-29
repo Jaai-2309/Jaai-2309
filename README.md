@@ -1,136 +1,83 @@
-<h1 align="center">Hi 👋, I'm Jai Sampat Panhale</h1>
-<h3 align="center">Final Year Information Technology Student | Flutter Developer | Java Developer | Cloud Enthusiast</h3>
+# Hi 👋, I'm Jai Sampat Panhale
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaai-2309&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Final Year B.E. Information Technology Student
-- 💻 Passionate about Flutter, Java, Cloud Computing, and Software Development
-- 🌱 Currently learning Advanced Java, AWS, and Data Structures & Algorithms
-- 📱 Interested in Mobile App Development and Full Stack Development
-- 📍 Pune, Maharashtra, India
-- 📫 Email: **sweetypanhale@gmail.com**
+🎓 Final Year B.E. Information Technology Student at NBN Sinhgad Technical Institute of Engineering, Pune.  
+💻 Passionate Flutter & Java Developer with a strong interest in Mobile App Development, Cloud Computing, and Software Engineering.  
+🌱 Currently learning Advanced Java, AWS, and Data Structures & Algorithms.  
+📍 Pune, Maharashtra, India.
 
 ---
 
 ## 🚀 Technical Skills
 
-### Programming Languages
-- Java
-- Dart
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-### Mobile Development
-- Flutter
-
-### Backend & Database
-- Firebase Authentication
-- Cloud Firestore
-- MySQL
-
-### Cloud Platforms
-- Microsoft Azure
-- Oracle Cloud Infrastructure (OCI)
-- AWS (Basics)
-
-### Tools & Technologies
-- Git
-- GitHub
-- Android Studio
-- Visual Studio Code
-- Power BI
+**Programming Languages:** Java, Dart, Python, SQL, HTML, CSS, JavaScript  
+**Frameworks & Technologies:** Flutter, Firebase Authentication, Cloud Firestore, MySQL, REST APIs  
+**Cloud & Tools:** AWS, Microsoft Azure, Oracle Cloud Infrastructure (OCI), Git, GitHub, Android Studio, VS Code, Power BI  
+**Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, SDLC
 
 ---
 
 ## 📂 Projects
 
-### 💄 Beauty Product & Services App
-- Flutter & Firebase based beauty products and home services application
-- Firebase Authentication
-- Firestore Database
-- Responsive UI
-- Real-time Data Management
-
-🔗 Repository: *(Add your repository link here)*
-
----
-
 ### 📚 Quiz Application
-A Flutter quiz application with Firebase integration featuring secure authentication, interactive quizzes, and real-time score calculation.
+A cross-platform Quiz Application built using Flutter and Firebase featuring secure authentication, real-time score calculation, and an interactive user interface.
 
-🔗 Repository:
+🔗 Repository:  
 https://github.com/Jaai-2309/Quiz-Application---Flutter-firebase
 
 ---
 
-### ✅ Smart Habit Tracker
-A JavaFX desktop application for managing daily habits with streak tracking and motivational features.
+### 💄 Beauty Product & Services App
+A Flutter and Firebase based e-commerce application that allows users to browse beauty products, book home services, and manage orders with secure authentication.
 
-🔗 Repository: *(Add your repository link here)*
+🔗 Repository:  
+*Add your repository link here after uploading.*
+
+---
+
+### ✅ Smart Habit Tracker
+A JavaFX desktop application that helps users build and maintain healthy habits through habit tracking, streak monitoring, and motivational insights.
+
+🔗 Repository:  
+https://github.com/Jaai-2309/Smart-Habit-Tracker
 
 ---
 
 ### 📊 Sales Performance Dashboard
-Interactive Power BI dashboard for analyzing sales performance, KPIs, and business insights.
+An interactive Power BI dashboard designed to analyze sales data, monitor KPIs, and generate business insights through data visualization.
 
-🔗 Repository: *(Add your repository link here)*
+🔗 Repository:  
+*Add your repository link here after uploading.*
 
 ---
 
 ## 📜 Certifications
 
 - Microsoft Azure Fundamentals (AZ-900)
-- Oracle Cloud Infrastructure AI Foundations Associate
+- Oracle Cloud Infrastructure (OCI) AI Foundations Associate
 - Java Development Certification
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering (Information Technology)**
-
-NBN Sinhgad Technical Institute of Engineering Campus, Pune
-
-Savitribai Phule Pune University
-
+**Bachelor of Engineering (Information Technology)**  
+NBN Sinhgad Technical Institute of Engineering Campus, Pune  
+Savitribai Phule Pune University  
 **CGPA:** 9.3/10
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-💼 LinkedIn  
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/jai-panhale
 
-💻 GitHub  
+💻 **GitHub:**  
 https://github.com/Jaai-2309
 
-📧 Email  
-mailto:sweetypanhale@gmail.com
+📧 **Email:**  
+sweetypanhale@gmail.com
 
 ---
 
-## 📈 GitHub Stats
-
-![Jai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaai-2309&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaai-2309&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jaai-2309&theme=github-dark)
-
----
-
-## ⭐ Quote
-
-> *"Continuous learning and consistent practice are the keys to becoming a successful software engineer."*
-
-⭐ **Thank you for visiting my profile! Feel free to explore my repositories and connect with me.**
+⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
